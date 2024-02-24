@@ -1,0 +1,6 @@
+{
+  "validUsername": "hello@cypress.io",
+  "validPassword": "hello",
+  "invalidUsername": "routes@cypress.io",
+  "invalidPassword": "deneme"
+}
